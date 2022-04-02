@@ -66,24 +66,30 @@ cv2.waitKey(0)
 
 ### i) Read and display the image
 
+![1](https://user-images.githubusercontent.com/75235554/161375219-cb4e156a-6915-4d42-a7b6-1e9470ac42ed.png)
+<br>
+![2](https://user-images.githubusercontent.com/75235554/161375252-f6259bbc-365a-430c-837e-134eb4085466.png)
 <br>
 <br>
-
 ### ii)Write the image
+<img width="959" alt="5" src="https://user-images.githubusercontent.com/75235554/161375276-b83373c5-03a2-46c5-b9ea-3bad6358a007.png">
 
 <br>
 <br>
 
 ### iii)Shape of the Image
+<img width="959" alt="5" src="https://user-images.githubusercontent.com/75235554/161375282-6891d38b-9f5b-4749-9319-87aab542d081.png">
 
 <br>
 <br>
 
 ### iv)Access rows and columns
+![3](https://user-images.githubusercontent.com/75235554/161375353-4adf3877-ef94-4f7a-942b-fc4fe624fbea.png)
 <br>
 <br>
 
 ### v)Cut and paste portion of image
+![4](https://user-images.githubusercontent.com/75235554/161375360-846bfb60-ddcf-4f59-af7f-52d561601fa0.png)
 <br>
 <br>
 
